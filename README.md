@@ -57,6 +57,7 @@ Open the notebook in Jupyter or Google Colab.
 
 Run all cells to load the dataset, train the model, and test predictions.
 
-# License
+## License
+This project is released under the MIT License, which allows free use, modification, and distribution.  
+Full license text is available in the **LICENSE** file.
 
-This project is released under the MIT License.
