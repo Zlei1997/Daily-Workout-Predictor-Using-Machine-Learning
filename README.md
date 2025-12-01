@@ -35,7 +35,7 @@ A few safety rules were added to improve real-world use, such as automatically r
 # Notebook
 
 The full training process, evaluation, and prediction examples are in:
-Lei_Code.ipynb
+[Lei_Code.ipynb](Lei_Code.ipynb)
 
 The notebook shows:
 
