@@ -53,7 +53,7 @@ The notebook shows:
 
 ```bash
 git clone https://github.com/Zlei1997/Daily-Workout-Predictor-Using-Machine-Learning.git
-
+'''bash
 
 # License
 
