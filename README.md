@@ -49,11 +49,13 @@ The notebook shows:
 
 # How to Run
 
-### 1. Clone the repository
+Clone the repository:
 
-```bash
 git clone https://github.com/Zlei1997/Daily-Workout-Predictor-Using-Machine-Learning.git
-'''bash
+
+Open the notebook in Jupyter or Google Colab.
+
+Run all cells to load the dataset, train the model, and test predictions.
 
 # License
 
