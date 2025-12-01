@@ -17,9 +17,7 @@ The dataset was recorded manually over several weeks. Each row represents one da
 - Injury indicator  
 - Recommended workout label (strength, cardio, rest)
 
-
-File included:
-workout_data.csv
+File included: [workout_data.csv](workout_data.csv)
 
 # Model Overview
 
