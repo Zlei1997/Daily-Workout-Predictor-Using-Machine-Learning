@@ -51,8 +51,8 @@ The notebook shows:
 
 1. Clone the repository:
 
-  git clone https://github.com/Zlei1997/Daily-Workout-Predictor-Using-Machine-Learning.git
-
+```bash
+git clone https://github.com/Zlei1997/Daily-Workout-Predictor-Using-Machine-Learning.git
 
 2. Open the notebook in Jupyter or Google Colab.
 
